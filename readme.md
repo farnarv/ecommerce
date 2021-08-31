@@ -1,4 +1,4 @@
-# Design Patterns
+# Clean Architecture (Demo)
 
 By Farukh Narzullaev
 
